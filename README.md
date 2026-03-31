@@ -1,7 +1,6 @@
 # Podnośnik trapezowy z napędem śrubowym
 
-Projekt mechaniczny podnośnika trapezowego wykonany w ramach przedmiotu **Podstawy Konstrukcji Maszyn IV** na **Politechnice Warszawskiej – Wydział Mechaniczny Energetyki i Lotnictwa**.
-
+Projekt mechaniczny podnośnika trapezowego.
 Projekt obejmuje pełny proces opracowania konstrukcji:
 
 - modelowanie 3D części w **Siemens NX**
@@ -16,7 +15,7 @@ Celem projektu było zaprojektowanie **specjalistycznego podnośnika trapezowego
 
 # Wizualizacja złożenia
 
-Projekt przedstawia mechanizm podnośnika nożycowego napędzanego śrubą trapezową.
+Projekt przedstawia mechanizm podnośnika trapezowego napędzanego śrubą trapezową.
 
 Mechanizm działa poprzez obrót śruby za pomocą klucza nasadowego, co powoduje zmianę kąta między ramionami i podnoszenie lub opuszczanie konstrukcji.
 
@@ -60,14 +59,6 @@ Proces projektowy obejmował:
 - budowę kompletnego złożenia
 - weryfikację współpracy elementów
 - przygotowanie dokumentacji technicznej
-
-Części zaprojektowane w projekcie obejmują między innymi:
-
-- śrubę napędową
-- tuleję prowadzącą
-- ramiona podnośnika
-- nakrętkę
-- elementy konstrukcyjne głowicy i stopy
 
 ---
 
@@ -177,6 +168,5 @@ Projekt został wykonany przy użyciu:
 
 **Alicja Kutyła**  
 Politechnika Warszawska  
-Wydział Mechaniczny Energetyki i Lotnictwa  
 
-Projekt wykonany w ramach przedmiotu **Podstawy Konstrukcji Maszyn IV**.
+
